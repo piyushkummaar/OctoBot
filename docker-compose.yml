@@ -1,0 +1,39 @@
+version: "3"
+
+services:
+  octobot:
+    image: drakkarsoftware/octobot:stable
+    environment:
+      - VIRTUAL_HOST=${HOST}
+      - VIRTUAL_PORT=5001
+      - SELF_SIGNED_HOST=${HOST}
+    volumes:
+       - ./logs:/octobot/logs
+       - ./backtesting:/octobot/backtesting
+       - ./tentacles:/octobot/tentacles
+       - ./user:/octobot/user
+    expose:
+       - 5001
+    restart: always
+
+  nginx:
+    image: jwilder/nginx-proxy:alpine
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+      - ./ssl:/etc/nginx/certs
+      - ./vhost.d:/etc/nginx/vhost.d
+    restart: always
+    privileged: true
+    depends_on:
+      - octobot
+
+  nginx-companion:
+    container_name: proxy-companion
+    restart: always
+    image: sebastienheyd/self-signed-proxy-companion:latest
+    volumes:
+       - /var/run/docker.sock:/var/run/docker.sock:ro
+       - ./ssl:/etc/nginx/certs
