@@ -1,0 +1,152 @@
+Collecting OctoBot
+  Downloading OctoBot-0.3.9-py2.py3-none-any.whl (682 kB)
+Collecting Twisted==20.3.0
+  Downloading Twisted-20.3.0-cp37-cp37m-win_amd64.whl (3.1 MB)
+Collecting praw
+  Downloading praw-7.4.0-py3-none-any.whl (167 kB)
+Collecting cryptography
+  Using cached cryptography-3.4.8-cp36-abi3-win_amd64.whl (1.6 MB)
+Collecting jsonschema
+  Using cached jsonschema-3.2.0-py2.py3-none-any.whl (56 kB)
+Collecting tulipy==0.3.1
+  Downloading tulipy-0.3.1-cp37-cp37m-win_amd64.whl (129 kB)
+Collecting psutil
+  Downloading psutil-5.8.0-cp37-cp37m-win_amd64.whl (244 kB)
+Collecting urllib3==1.25.3
+  Downloading urllib3-1.25.3-py2.py3-none-any.whl (150 kB)
+Collecting aiohttp
+  Using cached aiohttp-3.7.4.post0-cp37-cp37m-win_amd64.whl (630 kB)
+Collecting requests
+  Using cached requests-2.26.0-py2.py3-none-any.whl (62 kB)
+Collecting OctoBot-Launcher
+  Downloading OctoBot_Launcher-2.0.4-py3-none-any.whl (326 kB)
+Collecting OctoBot-Tentacles-Manager==1.0.13
+  Downloading OctoBot_Tentacles_Manager-1.0.13-py2.py3-none-any.whl (30 kB)
+Collecting numpy==1.16.1
+  Downloading numpy-1.16.1-cp37-cp37m-win_amd64.whl (11.9 MB)
+Collecting vaderSentiment
+  Using cached vaderSentiment-3.3.2-py2.py3-none-any.whl (125 kB)
+Collecting simplifiedpytrends
+  Using cached simplifiedpytrends-1.1.2-py3-none-any.whl (8.6 kB)
+Collecting OctoBot
+  Downloading OctoBot-0.3.8-py2.py3-none-any.whl (683 kB)
+Collecting Twisted
+  Downloading Twisted-21.7.0-py3-none-any.whl (3.1 MB)
+Collecting lxml
+  Downloading lxml-4.6.3-cp37-cp37m-win_amd64.whl (3.5 MB)
+Collecting ccxt
+  Downloading ccxt-1.56.30-py2.py3-none-any.whl (2.0 MB)
+Collecting Cython
+  Using cached Cython-0.29.24-cp37-cp37m-win_amd64.whl (1.6 MB)
+Collecting OctoBot-Tentacles-Manager>=1.0.10
+  Using cached OctoBot_Tentacles_Manager-2.3.1-py2.py3-none-any.whl (87 kB)
+Collecting newspaper3k
+  Using cached newspaper3k-0.2.8-py3-none-any.whl (211 kB)
+Collecting python-telegram-bot
+  Using cached python_telegram_bot-13.7-py3-none-any.whl (490 kB)
+Collecting flask
+  Using cached Flask-2.0.1-py3-none-any.whl (94 kB)
+Collecting tulipy
+  Downloading tulipy-0.4.0-cp37-cp37m-win_amd64.whl (133 kB)
+Collecting python-binance<=0.7.3
+  Downloading python_binance-0.7.3-py2.py3-none-any.whl (26 kB)
+Collecting colorlog
+  Downloading colorlog-6.4.1-py2.py3-none-any.whl (11 kB)
+Collecting numpy
+  Downloading numpy-1.21.2-cp37-cp37m-win_amd64.whl (14.0 MB)
+Collecting Python-Twitter
+  Using cached python_twitter-3.5-py2.py3-none-any.whl (67 kB)
+Requirement already satisfied: setuptools in c:\users\user\onedrive\desktop\vcodify\2021\socialm\octoenv\lib\site-packages (from OctoBot-Tentacles-Manager>=1.0.10->OctoBot) (41.2.0)
+Collecting aiohttp
+  Downloading aiohttp-3.6.3-cp37-cp37m-win_amd64.whl (629 kB)
+Collecting jinja2<2.12,>=2.11.2
+  Using cached Jinja2-2.11.3-py2.py3-none-any.whl (125 kB)
+Collecting Cython
+  Using cached Cython-0.29.21-cp37-cp37m-win_amd64.whl (1.6 MB)
+Collecting OctoBot-Commons<1.5,>=1.4.1
+  Using cached OctoBot_Commons-1.4.1-cp37-cp37m-win_amd64.whl (1.1 MB)
+Collecting aiofiles<0.5,>=0.4.0
+  Downloading aiofiles-0.4.0-py3-none-any.whl (9.2 kB)
+Collecting multidict<5.0,>=4.5
+  Downloading multidict-4.7.6-cp37-cp37m-win_amd64.whl (48 kB)
+Collecting attrs>=17.3.0
+  Using cached attrs-21.2.0-py2.py3-none-any.whl (53 kB)
+Collecting chardet<4.0,>=2.0
+  Using cached chardet-3.0.4-py2.py3-none-any.whl (133 kB)
+Collecting yarl<1.6.0,>=1.0
+  Downloading yarl-1.5.1-cp37-cp37m-win_amd64.whl (127 kB)
+Collecting async-timeout<4.0,>=3.0
+  Using cached async_timeout-3.0.1-py3-none-any.whl (8.2 kB)
+Collecting MarkupSafe>=0.23
+  Using cached MarkupSafe-2.0.1-cp37-cp37m-win_amd64.whl (14 kB)
+Collecting numpy
+  Using cached numpy-1.19.2-cp37-cp37m-win_amd64.whl (12.9 MB)
+Collecting python-telegram-bot
+  Using cached python_telegram_bot-12.7-py2.py3-none-any.whl (375 kB)
+Collecting importlib-metadata
+  Downloading importlib_metadata-4.8.1-py3-none-any.whl (17 kB)
+Collecting six>=1.11.0
+  Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Collecting pyrsistent>=0.14.0
+  Using cached pyrsistent-0.18.0-cp37-cp37m-win_amd64.whl (62 kB)
+Collecting tornado>=5.1
+  Using cached tornado-6.1-cp37-cp37m-win_amd64.whl (422 kB)
+Collecting future>=0.16.0
+  Using cached future-0.18.2-py3-none-any.whl
+Collecting certifi
+  Using cached certifi-2021.5.30-py2.py3-none-any.whl (145 kB)
+Collecting decorator>=4.4.0
+  Downloading decorator-5.1.0-py3-none-any.whl (9.1 kB)
+Collecting dateparser
+  Using cached dateparser-1.0.0-py2.py3-none-any.whl (279 kB)
+Collecting service-identity
+  Downloading service_identity-21.1.0-py2.py3-none-any.whl (12 kB)
+Collecting autobahn
+  Downloading autobahn-21.3.1-py2.py3-none-any.whl (495 kB)
+Collecting pyOpenSSL
+  Using cached pyOpenSSL-20.0.1-py2.py3-none-any.whl (54 kB)
+Collecting typing-extensions>=3.7.4
+  Using cached typing_extensions-3.10.0.2-py3-none-any.whl (26 kB)
+Collecting idna>=2.0
+  Using cached idna-3.2-py3-none-any.whl (59 kB)
+Collecting hyperlink>=21.0.0
+  Downloading hyperlink-21.0.0-py2.py3-none-any.whl (74 kB)
+Collecting txaio>=21.2.1
+  Downloading txaio-21.2.1-py2.py3-none-any.whl (30 kB)
+Collecting cffi>=1.12
+  Using cached cffi-1.14.6-cp37-cp37m-win_amd64.whl (178 kB)
+Collecting pycparser
+  Using cached pycparser-2.20-py2.py3-none-any.whl (112 kB)
+Collecting aiodns>=1.1.1
+  Using cached aiodns-3.0.0-py3-none-any.whl (5.0 kB)
+Collecting ccxt
+  Downloading ccxt-1.56.29-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.28-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.27-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.26-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.25-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.24-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.23-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.22-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.21-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.20-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.19-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.18-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.17-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.16-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.15-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.14-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.13-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.12-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.11-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.10-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.9-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.8-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.7-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.6-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.5-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.4-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.3-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.2-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.56.1-py2.py3-none-any.whl (2.0 MB)
+  Downloading ccxt-1.55.100-py2.py3-none-any.whl (2.0 MB)
